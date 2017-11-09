@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Call Intent</string>
+
+    <string name="call">Call</string>
+    <string name="map">View Map</string>
+    <string name="web">View Web page</string>
+    <string name="send">Send Mail</string>
+</resources>
